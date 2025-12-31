@@ -15,6 +15,7 @@ Usage Notes:
     - Run these checks after data laoding Silver Layer.
     - Investigate and resolve any discrepancies found during checks.
     - Run in seperate queries for best results.
+    - Replece "silver" with "bronze" for bronze results.
 =========================================
 */
 
